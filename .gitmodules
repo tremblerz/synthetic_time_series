@@ -1,3 +1,9 @@
 [submodule "src/synthcity"]
 	path = src/synthcity
 	url = https://github.com/tremblerz/synthcity.git
+[submodule "gretel-synthetics"]
+	path = gretel-synthetics
+	url = https://github.com/mahmoudkh24/gretel-synthetics
+[submodule "src/gretel-synthetics"]
+	path = src/gretel-synthetics
+	url = https://github.com/mahmoudkh24/gretel-synthetics
